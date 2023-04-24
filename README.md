@@ -128,7 +128,7 @@ Para iniciarmos a nossa aplicação, precisamos abri o app 'Terminal' do Windows
 **<font  size=2> Figura 1 — Selecionando Ambiente Ubuntu, Autoria Própria </font>**
 
 <center>
-<img  src="img\ambiente.png"  alt="Ambiente Ubuntu"  />
+<img  src="img\ambiente_1.png"  alt="Ambiente Ubuntu"  />
 </center>
 
 **<font  size=2> Figura 2 — Ambiente Ubuntu, Autoria Própria </font>**
