@@ -128,7 +128,7 @@ Para iniciarmos a nossa aplicação, precisamos abri o app 'Terminal' do Windows
 **<font  size=2> Figura 1 — Selecionando Ambiente Ubuntu, Autoria Própria </font>**
 
 <center>
-<img  src="img\ambiente_1.png"  alt="Ambiente Ubuntu"  />
+<img  src="img\ambiente.png"  alt="Ambiente Ubuntu"  />
 </center>
 
 **<font  size=2> Figura 2 — Ambiente Ubuntu, Autoria Própria </font>**
@@ -160,10 +160,16 @@ Ainda sobre esse tópico, o professor Rodrigo Mangoni Nicola nos enviou um códi
 Abrimos 2 terminais, um que serve para rodar a aplicação gráfica, no caso a tela da tartaruga, e o segundo terminal nos rodamos o arquivo Python que contem o código com a requisição, resultando no seguinete resultado:
 
 <center>
-<img  src="img\turtle_circle.png"  alt="Simulação"  />
+<img  src="img\code_circle.png"  alt="Simulação"  />
 </center>
 
 **<font  size=2> Figura 4 — Código que faz a tartatuga caminhar em circulo, Distribuído por Rodrigo Mangoni Nicola </font>**
+
+<center>
+<img  src="img\turtle_circle.png"  alt="Simulação"  />
+</center>
+
+**<font  size=2> Figura 5 — Resultado do codigo com a simulação, Distribuído por Rodrigo Mangoni Nicola </font>**
 
 Para a nossa aplicação do projeto, o objetivo é fazer um outra figura com o rastro da tartaruga diferente do que mostrado, que no caso é o circulo.
 
@@ -175,7 +181,7 @@ Segue o código abaixo.
 <img  src="img\code_estrela.png"  alt="Simulação"  />
 </center>
 
-**<font  size=2> Figura 5 — Código que faz a tartatuga caminhar em uma estrela de 5 pontos, Distribuído por Rodrigo Mangoni Nicola e alterado por Kil Matheus </font>**
+**<font  size=2> Figura 6 — Código que faz a tartatuga caminhar em uma estrela de 5 pontos, Distribuído por Rodrigo Mangoni Nicola e alterado por Kil Matheus </font>**
 
 A figura a seguir mostra o resultado final:
 
@@ -183,7 +189,7 @@ A figura a seguir mostra o resultado final:
 <img  src="img\turtle_estrela.png"  alt="Simulação"  />
 </center>
 
-**<font  size=2> Figura 6 — Resultado final gráfico do caminho da tartaruga, Autoria Própria</font>**
+**<font  size=2> Figura 7 — Resultado final gráfico do caminho da tartaruga, Autoria Própria</font>**
 
 Logo abaixo segue o link para conferir o funcionamento da atividade.
 https://drive.google.com/file/d/1mlPCqhb1jqlHhZ1le4YVIU_54lTdiejy/view?usp=sharing
@@ -202,4 +208,4 @@ NICOLA,  Rodrigo Mangoni (2023). Encontro 01 - Introdução à robótica móvel.
 
 Agradecimentos especiais a:
 
- Rodrigo Mangoni Nicola pelo seu grande conhecimento em programação que sempre nos ajuda em todos os desenvolvimentos. 
+ Rodrigo Mangoni Nicola pelo seu grande conhecimento em programação que sempre nos ajuda em todos os desenvolvimentos.
